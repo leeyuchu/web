@@ -35,4 +35,17 @@
         <p>© 2024 My Simple Website</p>
     </footer>
 </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Website</title>
+</head>
+<body>
+    <!-- 标题部分 -->
+    <h1>这是一个主标题</h1>
+    <h2>这是一个副标题</h2>
+    <h3>这是一个小标题</h3>
+</body>
 </html>
